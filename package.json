@@ -1,0 +1,23 @@
+{
+  "name": "@sentosa/vue-color-picker",
+  "version": "0.1.0",
+  "description": "带渐变设置的颜色选择器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XinHuaLuFang/vue-color-picker.git"
+  },
+  "keywords": [
+    "vue",
+    "color-picker"
+  ],
+  "author": "xinhua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XinHuaLuFang/vue-color-picker/issues"
+  },
+  "homepage": "https://github.com/XinHuaLuFang/vue-color-picker#readme"
+}
